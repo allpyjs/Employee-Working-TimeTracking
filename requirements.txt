@@ -1,0 +1,9 @@
+PyQt5==5.15.2
+cvzone
+filterpy
+numpy
+matplotlib
+opencv_python
+scipy
+scikit-image
+ultralytics
